@@ -1,0 +1,1753 @@
+---
+capitol-reef:
+  epic-canyon:
+    RATING: 3B
+    LENGTH: 4-6 hours
+    SEASON: Late Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 9+ to 30 m ( 99 ft. )
+    WATER: A few pools in wetter times, Wetsuits recommended in cooler temps.
+    FLASHFLOOD: High in the short slot section.
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  beaver-bay-canyon:
+    RATING: Easy Hike or 3B
+    LENGTH: 2 hours
+    SEASON: Any, hot in the summer.
+    GEAR: Standard Technical Gear - Extra webbing or a Toggle (Fiddlestick) Type Anchor
+    RAPPELS: 1-2 to 25 m ( 83 ft. )
+    WATER: Maybe 1 deep pool, then little.
+    FLASHFLOOD: Moderate
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - HIKE
+    - CANYON
+    - ADVANCED ANCHORS
+    - FAMILY FRIENDLY
+    - 'ACCESS: PAVED'
+  burrowash:
+    RATING: 3B
+    LENGTH: 7-9 Hours (8 miles)
+    SEASON: Spring through Fall
+    GEAR: Standard Technical Gear. This route requires advanced navigation. Bring
+      good map skills.
+    RAPPELS: 4 to 33 m ( 109 ft. )
+    WATER: Typically little swimming, but spots of possible deep wading. A wetsuit
+      is needed in all but the hottest weather.
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  cassidycanyon:
+    RATING: 3A
+    LENGTH: 4-6 hours
+    SEASON: Any. Traverse to second anchor can be difficult or impossible with snow
+      on it or right after rain.
+    GEAR: Standard Technical Gear
+    RAPPELS: 7 to 40 m ( 132 ft. )
+    WATER: None.
+    FLASHFLOOD: Low to Moderate. The drainage is very small, so it would need to be
+      raining directly over the canyon to flood.
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  cottonwood-wash:
+    RATING: 3B
+    LENGTH: 5-7 hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear. Be sure to have quite a bit (10 m ( 33 ft. )) of
+      webbing.
+    RAPPELS: 3+ to 20 m ( 66 ft. )
+    WATER: Some pools. Wetsuit (3mm full) in all but the hottest conditions.
+    FLASHFLOOD: High
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  fire-canyon:
+    RATING: 3A/B
+    LENGTH: 6-8 hours
+    MAPS: FRUITA, UT;
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Technical Gear
+    RAPPELS: 4+ to 30 m ( 99 ft. )
+    WATER: A few possible shallow pools.
+    FLASHFLOOD: Moderate/High
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: PAVED'
+    - 'ACCESS: 2WD'
+  five-mile:
+    RATING: 3B
+    LENGTH: 6-8 hours
+    SEASON: Spring through Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 0-4 to 10 m ( 33 ft. )
+    WATER: Generally some pools, wetsuit recommended in all but the hottest conditions.
+    FLASHFLOOD: Moderate
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  laughing-baboon:
+    RATING: 3B
+    LENGTH: 4-6 hours from Millers Creek, 2+ day backpack from trailhead.
+    MAPS: Stevens Canyon North, UT; Hall Mesa, UT;
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 6+ to 50 m ( 165 ft. )
+    WATER: Can hold quite a bit. Wetsuit required in all but the hottest weather.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  na-gah-canyon:
+    RATING: 3A
+    LENGTH: 3-4 hours
+    SEASON: Spring, Summer, Fall
+    RAPPELS: 3 to 50 m ( 165 ft. )
+    WATER: Generally very little. No wetsuit needed.
+    FLASHFLOOD: Low except in a very short section
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  nighthawk-canyon:
+    RATING: 3 A/B
+    LENGTH: 4-7 hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear - Pothole Skills/Tools
+    RAPPELS: 6+ to 63 m ( 207 ft. )
+    WATER: Possible water in potholes. Wetsuit in cooler seasons
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - ADVANCED ANCHORS
+    - WETSUIT NEEDED
+    - ADVANCED
+    - 'ACCESS: 2WD'
+  old-school:
+    RATING: 3A
+    LENGTH: 1-2 hours
+    MAPS: Fruita, UT
+    SEASON: Any, though not during Spring runoff
+    GEAR: Standard Technical Gear
+    RAPPELS: 1-2 to 22 m ( 73 ft. )
+    WATER: One pothole that can be avoided with stemming
+    FLASHFLOOD: Low
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  pandorasbox:
+    RATING: 3B R-
+    LENGTH: 10-14 Hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 7+ to 45 m ( 148 ft. )
+    WATER: Typically no swimming, but a couple of spots of possible deep wading. In
+      most conditions, no wetsuit needed.
+    FLASHFLOOD: High, although the canyon has a small drainage, so it would need to
+      be raining heavily right over the canyon.
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - FALL COLORS
+    - NARROW
+    - HIGH STEMMING
+    - ADVANCED
+    - CANYON RATING R-
+    - 'ACCESS: PAVED'
+cedar-mesa:
+  clearwater-canyon:
+    RATING: 3A
+    LENGTH: 12+ hours (2 day backpack)
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 6 to 60 m ( 197 ft. )
+    WATER: Many springs. Water should be avoidable. Treat all drinking water.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - ROCK ART
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  covecanyon:
+    RATING: 3B
+    LENGTH: 4-6 hours
+    MAPS: Bowdie Canyon West, UT
+    SEASON: Spring through Fall.
+    GEAR: Several Ropes and Ascending Gear
+    WATER: Several Pools, wetsuit recommended.
+    FLASHFLOOD: Moderate, but you can see the drainage from the trailhead. `
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  cowboy:
+    RATING: 3B
+    LENGTH: 4-6 Hours (5-7 for longer route)
+    SEASON: Spring through Fall.
+    GEAR: Standard canyoneering gear. 30 m ( 99 ft. ) of webbing
+    RAPPELS: 2+ to 10 m ( 33 ft. ) (20 m ( 66 ft. ) if doing the longer route)
+    WATER: Often quite a bit. Wetsuit required in cool/cold conditions, recommended
+      in most conditions.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  duckett-canyon:
+    RATING: 3B
+    LENGTH: 2-4 hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 2+ to 15 m ( 50 ft. )
+    WATER: Generally quite a bit. Wetsuit recommended.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  cheeseboxcanyon:
+    RATING: 3B
+    LENGTH: 6-10 Hours (depending on fork and entry/exit)
+    SEASON: Spring through Fall
+    GEAR: Standard Technical Gear - Wetsuits in cooler times.
+    RAPPELS: 0-4 to 15 m ( 50 ft. )
+    WATER: Varies, but can be quite a bit.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  fry-canyon:
+    RATING: 3B
+    LENGTH: 3-4 hours
+    SEASON: Spring through fall
+    GEAR: 50 m ( 165 ft. ) rope recommended, wetsuit in cool/cold conditions
+    RAPPELS: 1 - 15 m ( 50 ft. )
+    WATER: Generally a couple of short swims
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - INDIAN RUINS
+    - WETSUIT NEEDED
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  gravelcanyon:
+    RATING: 3B
+    LENGTH: 6-8 Hours
+    SEASON: Spring through Fall
+    GEAR: Standard Technical Gear - Wetsuits in all but hottest conditions.
+    RAPPELS: 2 to 6 m ( 20 ft. ) - 20 m ( 66 ft. ) rope recommended.
+    WATER: Generally a fair amount of wading and swimming.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  hideout-canyon:
+    RATING: 3A/B
+    LENGTH: 7-9 hours (about 14 miles)
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 3+ to 22 m ( 73 ft. )
+    WATER: Generally only a couple of pools. Wetsuit is very cool/cold conditions.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - 'ACCESS: 2WD'
+  horsetanks:
+    RATING: 3B
+    LENGTH: 4-6 Hours
+    SEASON: Late Spring through Early Fall
+    GEAR: Standard Technical Gear. Wetsuits useful ifvery cold sensitive. Extra webbing.Note
+    RAPPELS: 4 to 20 m ( 66 ft. )
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  longcanyon:
+    RATING: 3A/B
+    LENGTH: 10-12 hours (or 2 day backpack)
+    SEASON: Spring, Summer, Fall
+    GEAR: Wetsuit in cooler temps or by the cold sensitive
+    RAPPELS: 4+ to 30 m ( 99 ft. )
+    WATER: Wading, generally little swimming.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  short:
+    RATING: 3B
+    LENGTH: 2-4 Hours
+    SEASON: Spring through Fall.
+    GEAR: Standard canyoneering gear.
+    RAPPELS: 1 to 6 m ( 20 ft. ). Bring a 30 m ( 99 ft. ) rope if taking the climbers
+      exit.
+    WATER: Often quite a bit. There is a spring fed section, so a wetsuit is required
+      in all but the hottest conditions.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - ROCK ART
+    - WETSUIT NEEDED
+    - 'ACCESS: HIGH CLEARANCE'
+  blackhole:
+    RATING: 3B
+    LENGTH: 4-8 hours
+    MAPS: Copper Point, UT
+    SEASON: Summer, Spring/Fall with a wetsuit
+    GEAR: A short rope 10 m ( 33 ft. ) is very useful as a hand line in several spots.
+      Wetsuit required in all but the hottest weather, and even then it is more comfortable
+      with a wetsuit.
+    RAPPELS: None
+    WATER: Much swimming.
+    FLASHFLOOD: High. White canyon drains a very large area. Be sure you have a good
+      forecast, and it has not rained up stream for a day or two. Heavy rains upstream
+      can take up to a day to reach the Black Hole.
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - BEGINNER
+    - 'ACCESS: PAVED'
+escalante:
+  big-tony:
+    RATING: 4A X
+    LENGTH: 8-10+ hours
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 2+ to 20 m ( 66 ft. )
+    WATER: Generally little.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - HIGH STEMMING
+    - ADVANCED
+    - CANYON RATING X
+    - 'ACCESS: HIGH CLEARANCE'
+  buckskin-gulch:
+    RATING: Moderate Backpack
+    LENGTH: 2 days (~ 20 miles), a short out and back day hike is possible.
+    MAPS: Bridger Point, UT; Pine Hollow Canyon, UT; West Clark Bench, UT
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Hiking Gear
+    RAPPELS: 1 challening boulder to get down, 15 m ( 50 ft. ) rope recommended.
+    WATER: Generally some wading and possible short pools (no wetsuit needed). Best
+      water for pumping is near the end of Buckskin / end of the first day.
+    FLASHFLOOD: High
+    NOTES: The full route requires a car shuttle. This route is do-able in the summer,
+      but get an early start the second day. Finally, this route has be done in the
+      winter, but several groups have had problems with ice dams and cold water exposure.
+      If attempting in the winter, be prepared for lots of cold water exposure.
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - ROCK ART
+    - FAMILY FRIENDLY
+    - 'ACCESS: 2WD'
+  choprock-canyon:
+    RATING: 3B R
+    LENGTH: 2-3 day backpack
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear, Cold Water Protection
+    RAPPELS: 3+ to 25 m ( 83 ft. )
+    WATER: Much cold water exposure, heavy wetsuit REQUIRED.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - WETSUIT NEEDED
+    - ADVANCED
+    - CANYON RATING R
+    - 'ACCESS: HIGH CLEARANCE'
+  ddi:
+    RATING: 4B X
+    LENGTH: 9-11+ hours
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 2+ to 20 m ( 66 ft. )
+    WATER: Generally a couple of pools. Wetsuits in cool/cold conditions.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - CANYON RATING X
+    - 'ACCESS: HIGH CLEARANCE'
+  death-hollow:
+    RATING: Moderate Backpack
+    LENGTH: 3-5 days
+    SEASON: Spring, Summer, Fall
+    GEAR: 15 m ( 50 ft. ) rope useful
+    RAPPELS: '0'
+    WATER: Generally some swimming in the upper section, much wading.
+    FLASHFLOOD: Moderate (High in the upper section)
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - ADVANCED
+    - 'ACCESS: 2WD'
+    - 'ACCESS: HIGH CLEARANCE'
+  dunham-slot:
+    RATING: 3A
+    LENGTH: 3-4 hours
+    SEASON: Any, although summers can be hot.
+    GEAR: Standard Technical Gear
+    RAPPELS: 2+ to 25 m ( 83 ft. )
+    WATER: A couple of waist deep pools possible after heavy rain.
+    FLASHFLOOD: Moderate in a very short section.
+    warning: unknown
+    tags:
+    - CANYON
+    - 'ACCESS: HIGH CLEARANCE'
+  egypt-1-canyon:
+    RATING: 3A
+    LENGTH: 2-3 hours
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 0-3 to 13 m ( 43 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  egypt-2-canyon:
+    RATING: 3A
+    LENGTH: 4-6 hours
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 2 to 30 m ( 99 ft. ) (90 m ( 296 ft. ) optional)
+    WATER: Generally little or none.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  egypt-3-canyon:
+    RATING: 2A/B (or 3A/B)
+    LENGTH: 4-6 hours
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Hiking Gear (Technical Gear if doing the optional rappel)
+    RAPPELS: 1 optional (50 m ( 165 ft. ) rope required for the optional rappel)
+    WATER: Generally a few pools to waist deep.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - NARROW
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  headlesshenandraven:
+    RATING: 4B R (X- for Raven)
+    LENGTH: Approach - 1 hour. Headless Hen - 2 hours, Raven - 2-3 hours, Exit - 1
+      hour.
+    SEASON: Any, although summers can be very hot.
+    GEAR: Standard Technical Gear, pothole escape gear and wetsuit for Headless Hen.
+      No wetsuit needed for Raven
+    RAPPELS: 0 - but a 25 m ( 83 ft. ) rope may be useful.
+    WATER: Headless Hen has many potholes, Raven can usually be done without getting
+      very wet.
+    FLASHFLOOD: Low to moderate.
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - ADVANCED ANCHORS
+    - WETSUIT NEEDED
+    - ADVANCED
+    - CANYON RATING X-
+    - 'ACCESS: HIGH CLEARANCE'
+  herm-pollock-slot:
+    RATING: 3A
+    LENGTH: 5-7 hours (8 miles)
+    SEASON: Fall, Winter, Spring
+    GEAR: Standard Technical Gear
+    RAPPELS: 3 to 11 m ( 37 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Moderate to high in a short section
+    warning: unknown
+    tags:
+    - CANYON
+    - ROCK ART
+    - ADVANCED ANCHORS
+    - 'ACCESS: HIGH CLEARANCE'
+  pintac-canyon:
+    RATING: 4A X
+    LENGTH: 7-9 hours
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear / 20 m ( 66 ft. ) webbing
+    RAPPELS: 2 to 22 m ( 73 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Moderate/High
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - CANYON RATING X
+    - 'ACCESS: HIGH CLEARANCE'
+grand-canyon:
+  deer-creek-grand-canyon:
+    RATING: 3C
+    LENGTH: 13+ hours (2 day backpack recommended) / about 20 miles and 5200' loss
+      / gain
+    MAPS: Tapeats Amphitheater, AZ; Fishtail Mesa, AZ;
+    SEASON: Summer, Fall (Hot in summer)
+    GEAR: Standard Technical Gear, Bolt Kit is prudent in case floods damage anchors
+    RAPPELS: 5 to 60 m ( 197 ft. )
+    WATER: Flowing all the time, full wetsuits required. No water until 9 miles into
+      the hike.
+    FLASHFLOOD: High, but only in a short section.
+    NOTES: Permit required for overnight camping. Information available on the NPS
+      site.
+    warning: unknown
+    tags:
+    - CANYON
+    - ADVANCED
+    - 'ACCESS: 2WD'
+  jackass-creek:
+    RATING: 3A
+    LENGTH: 3-5 hours
+    SEASON: Any, hot in summer
+    GEAR: Rapelling and Ascending Gear
+    RAPPELS: 1 - 12 m ( 40 ft. )
+    WATER: Generally none.
+    FLASHFLOOD: Low/Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: PAVED'
+powell:
+  blue-pool-wash:
+    RATING: 3A
+    LENGTH: 1-2 hours
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 3 to 15 m ( 50 ft. )
+    WATER: Generally little.
+    FLASHFLOOD: Low/Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  davesnotdead:
+    RATING: 3A
+    LENGTH: 3-5 hours
+    SEASON: Any, although hot in summer.
+    GEAR: Standard Technical Gear
+    RAPPELS: 5 to 32 m ( 105 ft. )
+    WATER: Generally little or none. Even after heavy rain, less than knee deep.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  fiddlestick-canyon:
+    RATING: 3A
+    LENGTH: 3-4 hours
+    SEASON: Spring, Fall, Winter
+    GEAR: Standard Technical Gear
+    RAPPELS: 4 to 60 m ( 197 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Low/Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - 'ACCESS: HIGH CLEARANCE'
+  gooddayjim:
+    RATING: 3B R for the standard route, 3B for the Average Joe entrance. Moderate
+      navigation.
+    LENGTH: 5-7 hours
+    SEASON: Spring through Fall.
+    GEAR: Pothole escape gear if doing the standard route.
+    RAPPELS: 4-5 to 20 m ( 66 ft. )
+    WATER: Little, except in the keeper and a couple of pools. Wetsuit not generally
+      required.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  harddayharvey:
+    RATING: 3B
+    LENGTH: 6-8 hours
+    SEASON: Spring through Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 4 to 15 m ( 50 ft. ), although some groups may do 1+ more.
+    WATER: Varies from dry to quite a bit after recent rains. Generally no wetsuit
+      needed.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  inferno-canyon:
+    RATING: 3B R-
+    LENGTH: 3-5 hours
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 5+ to 25 m ( 83 ft. )
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - CANYON RATING R-
+    - 'ACCESS: HIGH CLEARANCE'
+  paradiso-canyon:
+    RATING: 3A/B PG+
+    LENGTH: 3-5 hours
+    SEASON: Any, no snow. Hot in the summer.
+    GEAR: Standard Technical Gear
+    RAPPELS: 2+ to 25 m ( 83 ft. )
+    WATER: Can contain a few pools. No wetsuit unless cold conditions.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - CANYON RATING PG-13
+    - 'ACCESS: HIGH CLEARANCE'
+  psycho-damage-canyon:
+    RATING: 3A/B X
+    LENGTH: 5-7 hours
+    SEASON: Any, hot in the summer
+    GEAR: A short 10 m ( 33 ft. ) rope may be useful.
+    RAPPELS: '0'
+    WATER: Generally little. No wetsuit needed.
+    FLASHFLOOD: Moderate/High
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - ADVANCED
+    - CANYON RATING X
+    - 'ACCESS: HIGH CLEARANCE'
+  upper-ticaboo:
+    RATING: 3B
+    LENGTH: 6-8 hours (add 1 hour for pothole section)
+    SEASON: Spring through Fall, although it is hot in the summer.
+    GEAR: Pothole escape gear if doing the pothole section. Wetsuit recommended in
+      cooler weather.
+    RAPPELS: 4 to 60 m ( 197 ft. )
+    WATER: Some pools, especially in the pothole section.
+    FLASHFLOOD: Moderate / High
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  westcanyon:
+    RATING: 2C or 3C for the technical section
+    LENGTH: 3-4 days
+    SEASON: Late Spring through early Fall
+    GEAR: Standard Technical Gear, 20 m ( 66 ft. ) rope, Wetsuit ( Bring a rope even
+      if only doing the non-technical section )
+    RAPPELS: Technical Section - 1-2 to 7 m ( 23 ft. )
+    WATER: Generally a flowing stream. Much wading and swiming.
+    FLASHFLOOD: Very High - Do not enter if it rained recently or rain is in the forecast.
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+moab:
+  big-horn-canyon:
+    RATING: 3A
+    LENGTH: 3-5 hours
+    SEASON: Any, hot in the summer
+    GEAR: Standard technical gear, extra webbing 10 m ( 33 ft. ).
+    RAPPELS: 1+, bring 2-60 m ( 197 ft. ) ropes as some anchors are far back from
+      the drop
+    WATER: Generally none.
+    FLASHFLOOD: Low
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  bow-and-arrow-canyon:
+    RATING: 3A
+    LENGTH: 2-3 hours (2.25 miles)
+    SEASON: Any, summers can be hot.
+    GEAR: Standard Technical Gear
+    RAPPELS: 3+ to 37 m ( 122 ft. )
+    WATER: Generally None
+    FLASHFLOOD: Low
+    warning: unknown
+    tags:
+    - CANYON
+    - ROCK ART
+    - 'ACCESS: PAVED'
+  cameltoe:
+    RATING: 3B
+    LENGTH: 3-5 Hours
+    SEASON: Any, hot in the summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 1 - 15 m ( 50 ft. )
+    WATER: One short pool. No wetsuit required.
+    FLASHFLOOD: Moderate / low.
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  clustercanyon:
+    RATING: 3B
+    LENGTH: 2-4 Hours
+    SEASON: Spring through Fall.
+    GEAR: Standard canyoneering gear.
+    RAPPELS: 2 to 25 m ( 83 ft. )
+    WATER: Often quite a bit. Wetsuit required in cool/cold weather.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  dragonfly:
+    RATING: 3B
+    LENGTH: 3-5 Hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 2 (20 m ( 66 ft. ). and 40 m ( 132 ft. ))
+    WATER: Generally a couple of pools to swim, but short. No wetsuit needed on warm
+      days.
+    FLASHFLOOD: Minimal, unless heavy rains right over the canyon
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  elephantbutte:
+    RATING: A little lower 5th class climbing
+    LENGTH: 3-5 Hours
+    SEASON: Any, no snow. Can be hot in the summer.
+    GEAR: Standard canyoneering gear.
+    RAPPELS: 2 to 35 m ( 115 ft. )
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CLIMB
+    - CANYON
+    - 'ACCESS: PAVED'
+  fins-and-things-canyon:
+    RATING: 3A
+    LENGTH: 3-5 Hours
+    SEASON: Any, hot in summer.
+    GEAR: Standard Technical Gear
+    RAPPELS: 1+ 5 m ( 17 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - ROCK ART
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  granary:
+    RATING: 3A
+    LENGTH: 5-8 Hours
+    SEASON: Any, although summers can be very hot.
+    GEAR: Standard Technical Gear, extra webbing. No wetsuit needed.
+    RAPPELS: 4+ to 30 m ( 99 ft. ) (1-60 m ( 197 ft. ) & 1-30 m ( 99 ft. ) rope recommended)
+    WATER: Normally one or two small pools, usually avoidable. No wetsuit needed.
+    FLASHFLOOD: Low to moderate.
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  lockjaw-canyon:
+    RATING: 3A
+    LENGTH: 3-5 hours
+    SEASON: Any, hot in summer.
+    GEAR: Standard Technical Gear
+    RAPPELS: 1+ to 27 m ( 89 ft. )
+    WATER: Generally avoidable.
+    FLASHFLOOD: Low.
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+    - 'ACCESS: 4X4'
+  lastandfound:
+    RATING: 3A
+    LENGTH: 4-6 Hours
+    SEASON: Spring, Summer, Fall. Summers can be very hot.
+    GEAR: Standard Technical Gear, extra webbing.
+    RAPPELS: 3 to 40 m ( 132 ft. )
+    WATER: None.
+    FLASHFLOOD: Low to moderate.
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - 'ACCESS: HIGH CLEARANCE'
+  medieval-chamber:
+    RATING: 3A
+    LENGTH: 2-4 Hours
+    MAPS: Moab, UT
+    SEASON: Any, no snow
+    GEAR: Standard Technical Gear
+    RAPPELS: 2 - Bring 2-50 m ( 165 ft. ) Ropes if doing the simultaneous rappel,
+      otherwise 1-60 m ( 197 ft. ) & 30 m ( 99 ft. ) of webbing.
+    WATER: Little/none. No wetsuit needed.
+    FLASHFLOOD: Moderate / low.
+    warning: unknown
+    tags:
+    - CANYON
+    - 'ACCESS: 2WD'
+  mmicanyon:
+    RATING: 3A
+    LENGTH: 4-6 Hours
+    SEASON: Spring, Summer, Fall. Summers can be very hot.
+    GEAR: Standard Technical Gear, extra webbing.
+    RAPPELS: 2-4 to 60 m ( 197 ft. )
+    WATER: None.
+    FLASHFLOOD: Low to moderate.
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - 'ACCESS: 2WD'
+north-wash:
+  adobe-swale:
+    RATING: 3B
+    LENGTH: 4-6 hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 3 to 50 m ( 165 ft. )
+    WATER: Generally some wading. Wetsuit not needed in warm temps.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - 'ACCESS: 2WD'
+  alcove-amble-canyon:
+    RATING: 3A
+    LENGTH: 2-3 hours
+    MAPS: Sewing Machine Needle, UT;
+    SEASON: Any, hot in the summer
+    GEAR: Standard Technical Gear, 100' of webbing.
+    RAPPELS: 5 to 40 m ( 132 ft. )
+    WATER: Little or none.
+    FLASHFLOOD: Low except in short sections.
+    NOTES: 4x4 required! The road is very rough. In 2015, it was passable in a Jeep
+      with a little bit of rock moving in spots. It could be walked, but would add
+      a lot of miles to the day and is not recommended.
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: 4X4'
+  angel-cove:
+    RATING: 3A
+    LENGTH: 2.5-3.5 hours
+    SEASON: Any
+    GEAR: Standard Technical Gear
+    RAPPELS: 4-6 to 25 m ( 83 ft. )
+    WATER: Little or none.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  angel-slot:
+    RATING: 3A
+    LENGTH: 2.5-3.5 hours
+    SEASON: Any
+    GEAR: Standard Technical Gear
+    RAPPELS: 2-5 to 28 m ( 92 ft. )
+    WATER: Generally none.
+    FLASHFLOOD: Low/Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  arscenic:
+    RATING: 3B
+    LENGTH: 4-6 Hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 1 (3 stage) - Bring a 60 m ( 197 ft. ) Rope
+    WATER: Generally mostly dry with a little wading, although right after heavy rains,
+      you may get wet to chest deep.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  benign-canyon:
+    RATING: 3A/B
+    LENGTH: 3-5 hours
+    MAPS: Angel Cove, UT
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Technical Gear - Pothole Skills/Tools
+    RAPPELS: 2+ possibly up to 20 m ( 66 ft. )
+    WATER: Possibly a pool or two, generally not a lot.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - ADVANCED ANCHORS
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  bingo-canyon:
+    RATING: 3A
+    LENGTH: 3-4 hours
+    MAPS: Angel Cove, UT
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 2+ to 22 m ( 73 ft. )
+    WATER: Little or none.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  black-table-canyon:
+    RATING: 3A
+    LENGTH: 1 hour
+    MAPS: Black Table, UT
+    SEASON: Any, no snow. Hot in the summer.
+    GEAR: Standard Technical Gear
+    RAPPELS: 1 - 12 m ( 40 ft. )
+    WATER: None.
+    FLASHFLOOD: Low
+    NOTES: This canyon is best done with a short car shuttle.
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  blarney:
+    RATING: 3A
+    LENGTH: 2-3 hours each fork.
+    SEASON: Any, although summers can be hot.
+    GEAR: Standard Technical Gear
+    RAPPELS: Left Fork 3 to 15 m ( 50 ft. ) / Right Fork 2 to 15 m ( 50 ft. )
+    WATER: Generally little or none unless right after rains. Possibly wading, but
+      likely no swimming.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  bloodhound-canyon:
+    RATING: 3A
+    LENGTH: 2-3 hours
+    MAPS: Angel Cove, UT
+    SEASON: Any, hot in the summer
+    GEAR: Standard Technical, Excellent Natural Anchor Skills. Bring enough rope for
+      a 30 m ( 99 ft. ) rappel depending on anchor position.
+    RAPPELS: 3+ to 15 m ( 50 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - ADVANCED ANCHORS
+    - 'ACCESS: HIGH CLEARANCE'
+  blushingbridecanyon:
+    RATING: 2B II
+    LENGTH: 2-6 hours (depending on exit)
+    SEASON: Spring, Summer, Fall
+    GEAR: 10 m ( 33 ft. ) rope
+    RAPPELS: '0'
+    WATER: Generally 1-2 pools.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: PAVED'
+    - 'ACCESS: 4X4'
+  burr-slot:
+    RATING: 3A (R/R+)
+    LENGTH: 3-5 hours
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 1 - 60 m ( 197 ft. )
+    WATER: Generally none.
+    FLASHFLOOD: Low, the slot section is very short.
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - ADVANCED
+    - CANYON RATING R+
+    - 'ACCESS: 2WD'
+northern-utah:
+  boxcanyon:
+    RATING: 3B
+    LENGTH: 2-5 Hours
+    SEASON: Spring through fall are best.
+    GEAR: Standard canyoneering gear, ascenders
+    RAPPELS: 2-3 to 30 m ( 99 ft. )
+    WATER: Very small flowing stream in the upper section.
+    FLASHFLOOD: Low, this area is typically not prone to flash floods.
+    warning: unknown
+    tags:
+    - CANYON
+    - FALL COLORS
+    - BEGINNER
+    - 'ACCESS: 2WD'
+odds-and-ends-area:
+  munra-creek:
+    RATING: 3C
+    LENGTH: 4-6 hours
+    MAPS: Bonneville Dam, OR; Tanner Butte, OR;
+    SEASON: Late spring, summer, fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 7 to 45 m ( 148 ft. )
+    WATER: Flowing water after the 2 mile approach. Wetsuit required.
+    FLASHFLOOD: Low
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - 'ACCESS: PAVED'
+  poison-creek:
+    RATING: 3C
+    LENGTH: 2-3 hours
+    MAPS: Jump Creek Canyon, ID
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 3 to 18 m ( 60 ft. )
+    WATER: Flowing, wetsuit in cooler conditions
+    FLASHFLOOD: Low
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+robbers-roost:
+  alcatraz:
+    RATING: 3B
+    LENGTH: II (3-5 hours)
+    SEASON: Spring, Summer, Fall
+    GEAR: 1-60 m ( 197 ft. ) rope, and 1-30 m ( 99 ft. ) rope (or 15 m ( 50 ft. )
+      and a pullcord). Wetsuit in most conditions, or long sleeves and pants in hot
+      conditions. A headlamp can be helpful in the dark sections, but is not required.
+    RAPPELS: 3-4 to 60 m ( 197 ft. )
+    WATER: Generally a few small pools. Wetsuit in cool conditions. The canyon floor
+      does not see much sun.
+    FLASHFLOOD: High. The canyon has a small drainge, but is very narrow. It would
+      not take much rain directly over the canyon to flood.
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  blue-john-robbers-roost:
+    RATING: 3A
+    LENGTH: 4-8 hours depending on forks
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Technical Gear, The east fork can hold water after rain to waist
+      deep or deeper. Beware of this if doing it in colder times of the year.
+    RAPPELS: West Fork - 0, Main Fork - 0, but a 10 m ( 33 ft. ) rope is handy for
+      belaying, East Fork - 2 to 15 m ( 50 ft. ), Squeeze Fork - 2 to 8 m ( 27 ft.
+      ), Little Blue John - 2 to 25 m ( 83 ft. ). Full Blue John ends with a 25 m
+      ( 83 ft. ) rappel
+    WATER: Generally little or none unless right after rains. Possibly wading, but
+      likely little swimming.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  buckcanyon:
+    RATING: 3A
+    LENGTH: 4-6 Hours
+    SEASON: Fall, Winter, Spring , Hot in the summer
+    GEAR: 25 m ( 83 ft. ) rope / standard technical gear
+    RAPPELS: 1 - 8 m ( 27 ft. ), but 25 m ( 83 ft. ) rope required
+    WATER: Generally none except after recent rains
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  bull-pasture-canyon:
+    RATING: 3A
+    LENGTH: 4-6 hours
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 2+ to 25 m ( 83 ft. )
+    WATER: Generally avoidable.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  bigspring-east-west-canyon:
+    RATING: 3A / 2A
+    LENGTH: 4-6 hours
+    SEASON: Spring, Summer, Fall (hot in summer)
+    RAPPELS: 1+ to 45 m ( 148 ft. )
+    WATER: Little
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: 4X4'
+  gruver-slot-canyon-san-rafael-desert:
+    RATING: 3A
+    LENGTH: 2-3 hours
+    MAPS: Moonshine Wash, UT
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 2 to 12 m ( 40 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Low except for a short section.
+    NOTES: The road out may require high clearance or four wheel drive. On our trip,
+      several sandy sections and a few washouts would be passable, but tricky in just
+      a high clearance 2wd.
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - ADVANCED ANCHORS
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  highspur:
+    RATING: 3B
+    LENGTH: 5-7 hours
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Technical Gear, Moderate Route Finding
+    RAPPELS: Up to 25 m ( 83 ft. )
+    WATER: Generally little or none unless right after rains. Possibly wading, but
+      likely little swimming.
+    FLASHFLOOD: Moderate, but you can see the whole drainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: 4X4'
+  ho-hum-canyon:
+    RATING: 3A/B
+    LENGTH: 5-6 hours
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear, Keeper Pothole Gear
+    RAPPELS: 2+ 20 m ( 66 ft. )
+    WATER: Generally little, but there can be a couple of potholes than hold water.
+    FLASHFLOOD: Low/Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - 'ACCESS: HIGH CLEARANCE'
+  larrycanyon:
+    RATING: 3B
+    LENGTH: III (5-7 hours for the standard route)
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear, 20 m ( 66 ft. ) of webbing if doing the full Larry
+    RAPPELS: 2-5 to 30 m ( 99 ft. ) (several are optional) (add 1-3 more if doing
+      the lower section)
+    WATER: Generally some wading, wetsuit recommended in cooler/cold temperatures,
+      but often done without.
+    FLASHFLOOD: Moderate to High
+    warning: unknown
+    tags:
+    - CANYON
+    - 'ACCESS: 2WD'
+  little-bull-canyon:
+    RATING: 3A
+    LENGTH: 2-3 hours
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Technical Gear
+    RAPPELS: 1 - 30 m ( 99 ft. )
+    WATER: Generally very little.
+    FLASHFLOOD: High, but only for a short section.
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  littlewhiteroost:
+    RATING: 3B
+    LENGTH: 4-6 hours
+    SEASON: Spring, Summer, Fall (hot in summer)
+    GEAR: Standard Technical Gear, Moderate Route Finding
+    RAPPELS: Up to 25 m ( 83 ft. )
+    WATER: Generally little, unless right after rains.Possibly wading, but likely
+      little swimming.
+    FLASHFLOOD: Moderate, but you can see the wholedrainage and skies on the approach.
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  lost-park-canyon:
+    RATING: 3A/B
+    LENGTH: 5-7 hours
+    SEASON: Spring, Summer, Fall (hot in summer)
+    RAPPELS: 2 to 20 m ( 66 ft. )
+    WATER: Some wading, generally little
+    FLASHFLOOD: Moderate, but the narrows are short.
+    warning: unknown
+    tags:
+    - CANYON
+    - NARROW
+    - HIGH STEMMING
+    - ADVANCED ANCHORS
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+san-rafael-swell:
+  baptist-draw-canyon:
+    RATING: 3B
+    LENGTH: Short Route
+    SEASON: Sping, Summer, Fall
+    GEAR: Standard Technical Gear, Moderate Navigation
+    RAPPELS: 2-3 to 25 m ( 83 ft. )
+    WATER: Varies from little, to a lot.
+    FLASHFLOOD: High, do not enter if rain is in the forecast
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  buckeyes-canyon:
+    RATING: 4A/B
+    LENGTH: 6-8 hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear, Fiddlestick, Sandtrap
+    RAPPELS: 10+ to 55 m ( 181 ft. )
+    WATER: Some wading and a possible deep wade or two. Wetsuit if very cool or cold
+      conditions.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - ADVANCED ANCHORS
+    - ADVANCED
+    - 'ACCESS: 2WD'
+  cable-canyon:
+    RATING: 3B
+    LENGTH: 7-9 hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear, Pothole Escape Tools
+    RAPPELS: 3 to 25 m ( 83 ft. )
+    WATER: Generally quite a bit. Wetsuit recommended.
+    FLASHFLOOD: Moderate/High
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  cisternramp:
+    RATING: 3A
+    LENGTH: 4-6 Hours
+    SEASON: Fall, Winter, or Spring. Hot in the summer.
+    GEAR: 15 m rope for belays, Moderate navigation-a GPS is useful
+    RAPPELS: 0, but one short section of 5th class climbing ( 6 m ( 20 ft. ) )
+    WATER: Normally one or two small pools, usually avoidable.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  corral-canyon:
+    RATING: 3A/B
+    LENGTH: 3-5 hours (5 miles)
+    SEASON: Spring, Fall
+    GEAR: Standard Technical Gear, Pothole Gear
+    RAPPELS: 2 to 32 m ( 105 ft. )
+    WATER: Generally a few potholes. Wetsuit in cold conditions. Often dry after extended
+      periods of no precipitation.
+    FLASHFLOOD: Moderate/High
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  double-arch-canyon:
+    RATING: 3B
+    LENGTH: 2.5-3 hours
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 2 to 53 m ( 174 ft. )
+    WATER: Generally a couple of short pools
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  eagle-and-secret-canyons:
+    RATING: 3A
+    LENGTH: 5-7 hours (about 8.5 miles)
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 1+ to 15 m ( 50 ft. )
+    WATER: Generally little or none.
+    FLASHFLOOD: Low
+    warning: unknown
+    tags:
+    - CANYON
+    - ADVANCED ANCHORS
+    - ADVANCED
+    - 'ACCESS: HIGH CLEARANCE'
+  farnsworth-canyon:
+    RATING: Easy Hiking / Canyoneering
+    LENGTH: 2-6 hours.
+    MAPS: Temple Mountain, UT; Old Woman Wash, UT
+    SEASON: Fall, Winter, Spring
+    GEAR: Standard Hiking / Technical Gear
+    RAPPELS: 1 optional to 60 m ( 197 ft. )
+    WATER: None.
+    FLASHFLOOD: Low except in a very short section.
+    NOTES: Reaching the trailhead requires high clearance or four wheel drive. Those
+      with low clearance can walk the final mile to the trailhead if needed.
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - ROCK ART
+    - DOG FRIENDLY
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  goblins-lair:
+    RATING: 3A
+    LENGTH: 1-2 hours
+    SEASON: Any, hot in the summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 1 - 27 m ( 89 ft. )
+    WATER: None
+    FLASHFLOOD: Low
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  great-gusto-canyon:
+    RATING: 4A
+    LENGTH: 4-6 hours
+    MAPS: Old Woman Wash, UT;
+    SEASON: Fall, Winter (when no snow), Spring
+    GEAR: Standard Technical Gear
+    RAPPELS: 2 to 85 m ( 279 ft. )
+    WATER: None
+    FLASHFLOOD: Low
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - ADVANCED
+    - 'ACCESS: HIGH CLEARANCE'
+  hyde-draw:
+    RATING: 3B
+    LENGTH: 3-4 hours
+    SEASON: Spring through fall.
+    GEAR: Standard Technical Gear - Pothole Escape Tools
+    RAPPELS: 2 to 20 m ( 66 ft. )
+    WATER: Generally a few swims. Wetsuit in cooler conditions.
+    FLASHFLOOD: Low to moderate.
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: HIGH CLEARANCE'
+  knottedrope:
+    RATING: 3B
+    LENGTH: 4-6 hours
+    SEASON: Late Spring through Early Fall
+    GEAR: 15 m / 50 ft rope, pothole escape gear.
+    RAPPELS: None
+    WATER: Generally quite a bit. Wetsuit recommended even in the hottest times of
+      the year.
+    FLASHFLOOD: Moderate.
+    warning: unknown
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - WETSUIT NEEDED
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+southern-nevada:
+  boyscout-canyon:
+    RATING: 3B - III
+    LENGTH: 5-8 hours
+    SEASON: Fall, Winter, Spring
+    GEAR: 10 m ( 33 ft. ) rope and harness useful for helping beginners
+    RAPPELS: 0-3
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+wasatch:
+  adams-canyon:
+    RATING: Moderate Hike
+    LENGTH: 3-4 hours (4 miles)
+    MAPS: KAYSVILLE, UT
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Hiking Gear
+    WATER: Filterable along most of the hike.
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - FALL COLORS
+    - DOG FRIENDLY
+    - 'ACCESS: PAVED'
+  battle-creek:
+    RATING: Easy Hiking / 3C
+    LENGTH: 1 hour (1.2 miles)
+    MAPS: Orem, UT;
+    SEASON: Any
+    GEAR: Standard Hiking Gear
+    WATER: Flowing at the falls.
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - DOG FRIENDLY
+    - FAMILY FRIENDLY
+    - 'ACCESS: PAVED'
+  extended-lisa-falls:
+    RATING: 3C
+    LENGTH: 3-5 hours
+    SEASON: Late Summer, Early Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 4+ to 60 m ( 197 ft. )
+    WATER: Flowing once in the canyon. No wetsuit needed in hot conditions.
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - ADVANCED
+    - 'ACCESS: PAVED'
+  great-white-icicle:
+    RATING: 3C
+    LENGTH: 3-4 hours
+    MAPS: Dromedary Peak, UT
+    SEASON: Summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 5+ to 60 m ( 197 ft. )
+    WATER: Flowing.
+    warning: unknown
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: PAVED'
+  heughs-canyon:
+    RATING: Easy/Moderate Hike
+    LENGTH: 2-3 hours (3 miles)
+    MAPS: SUGAR HOUSE, UT
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Hiking Gear / Technical Gear if rappelling the falls
+    RAPPELS: 1 to 28 m ( 92 ft. )
+    WATER: Intermittent Along the Entire Hike
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - DOG FRIENDLY
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  lisafalls:
+    RATING: 3C
+    LENGTH: 1-3 Hours
+    MAPS: Dromedary Peak, UT
+    SEASON: Late spring through early fall
+    GEAR: Standard Technical Gear, 60 m ( 197 ft. ) rope
+    RAPPELS: 1+
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  rockymouth:
+    RATING: Short Hike or 3C Canyon
+    LENGTH: 1-3 Hours
+    MAPS: Draper, UT
+    SEASON: Late spring through early fall
+    GEAR: Standard Technical Gear, 60 m ( 197 ft. ) rope
+    RAPPELS: '2'
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+zion:
+  arch-canyon-snow-canyon-state-park:
+    RATING: 3B
+    LENGTH: 5-7 hours
+    MAPS: WASHINGTON, UT; SANTA CLARA, UT
+    SEASON: September 14th to March 15th
+    GEAR: Standard Technical Gear
+    RAPPELS: 6 to 60 m ( 197 ft. )
+    WATER: Can be several pools. Wetsuit in cool/cold conditions.
+    FLASHFLOOD: Moderate
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  behunin-canyon:
+    RATING: 3B
+    LENGTH: 6-8 hours
+    MAPS: Temple of Sinawava, UT;
+    SEASON: Late spring through fall.
+    GEAR: Standard Technical Gear
+    RAPPELS: 9 to 50 m ( 165 ft. )
+    WATER: A few pools. Wetsuit NOT required in warm/hot temperatures
+    FLASHFLOOD: High
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - BEGINNER
+    - INTERMEDIATE
+    - 'ACCESS: PAVED'
+  benson-creek:
+    RATING: 3C
+    LENGTH: 2-4 hours
+    MAPS: Parowan, UT;
+    SEASON: Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 4 to 32 m ( 105 ft. )
+    WATER: Small flowing stream
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - HIKE
+    - CANYON
+    - DOG FRIENDLY
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  birch-hollow:
+    RATING: 3A
+    LENGTH: 3-5 hours
+    MAPS: Clear Creek Mountain, UT
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 8+ to 32 m ( 105 ft. )
+    WATER: Generally none. A shallow wade or two after recent rain.
+    FLASHFLOOD: Moderate
+    NOTES: No permit is needed for Birch. Car shuttle recommended, but not required.
+      A mountain bike would work well for the shuttle.
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  boltergeist-canyon:
+    RATING: 3A
+    LENGTH: 2-3 hours
+    MAPS: Signal Peak, UT
+    SEASON: Any
+    GEAR: Standard Technical Gear
+    RAPPELS: 4-5 to 30 m ( 99 ft. )
+    WATER: Generally little and avoidable with some chimneying.
+    FLASHFLOOD: Low
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: 2WD'
+  boundary-canyon:
+    RATING: 3A/B
+    LENGTH: 6-8 hours
+    MAPS: Kolob Reservoir, UT; Cogswell Point, UT;
+    SEASON: Late spring, summer, fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 7 to 50 m ( 165 ft. )
+    WATER: Flowing in Spring/Summer
+    FLASHFLOOD: High
+    NOTES: No permit is needed for this canyon.
+    warning: unknown
+    tags:
+    - CANYON
+    - WETSUIT NEEDED
+    - 'ACCESS: 2WD'
+  cherry-canyon:
+    RATING: 3A
+    LENGTH: 4-6+ hours
+    MAPS: Mountain Sheep Spring, AZ;
+    SEASON: Late Fall through early Spring
+    GEAR: Standard Technical Gear, 100' of webbing.
+    RAPPELS: 15 to 30 m ( 99 ft. )
+    WATER: Little or none.
+    FLASHFLOOD: High
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  das-boot:
+    RATING: 3B
+    LENGTH: 5-7 hours
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear, Moderate Navigation (Pothole escape gear if doing
+      the full route)
+    RAPPELS: 2+ to 20 m ( 66 ft. )
+    WATER: Much. Wetsuits required any time.
+    FLASHFLOOD: High
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - TECHNICAL POTHOLES
+    - WETSUIT NEEDED
+    - INTERMEDIATE
+    - 'ACCESS: PAVED'
+  deadeye-dick:
+    RATING: 3A
+    LENGTH: 5-6 hours
+    MAPS: Clear Creek Mountain, UT; Temple of Sinawava, UT; Straight Canyon, UT;
+    SEASON: Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 6 to 30 m ( 99 ft. )
+    WATER: Generally none in the canyon. Filterable water on the exit.
+    FLASHFLOOD: Moderate in a very short section.
+    NOTES: Outside the park, so no permit needed. This route requires a shuttle. A
+      mountain bike could work for the shuttle.
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: HIGH CLEARANCE'
+  dianas-throne-canyon:
+    RATING: 3A
+    LENGTH: 2-3 hours
+    SEASON: Any, hot in summer
+    GEAR: Standard Technical Gear
+    RAPPELS: 0-3 to 25 m ( 83 ft. ) depeding on anchor location
+    WATER: Generally none.
+    FLASHFLOOD: Low
+    warning: unknown
+    tags:
+    - CANYON
+    - FAMILY FRIENDLY
+    - BEGINNER
+    - 'ACCESS: PAVED'
+  englestead-canyon:
+    RATING: 4A (B if going down Orderville)
+    LENGTH: 8-10+ hours
+    SEASON: Late Spring, Summer, Fall
+    GEAR: Standard Technical Gear
+    RAPPELS: 4+ to 90 m ( 296 ft. )
+    WATER: Little in Englestead, much in lower Orderville
+    FLASHFLOOD: High
+    warning: A permit is required for this trip. For permit information see this page.
+    tags:
+    - CANYON
+    - INTERMEDIATE
+    - 'ACCESS: 2WD'
+  ghost-rider-canyon:
+    RATING: 3A
+    LENGTH: 1-2 hours (1 mile)
+    MAPS: MOUNTAIN SHEEP SPRING, AZ
+    SEASON: Any, though summers can be hot.
+    GEAR: Standard Technical Gear
+    RAPPELS: 3-4 to 24 m ( 79 ft. )
+    WATER: None
+    FLASHFLOOD: Moderate
+    warning: unknown
+    tags:
+    - CANYON
+    - BEGINNER
+    - 'ACCESS: 2WD'
