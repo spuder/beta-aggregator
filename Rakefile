@@ -16,9 +16,23 @@ task :rubocop do
   system('rubocop --display-cop-names')
 end
 
+namespace 'scrape' do
+  desc 'Run scrape road trip ryan'
+  task :roadtripryan do
+    ruby "scrapers/roadtripryan.rb"
+  end
+
+  desc 'Run scrape canyoneering usa'
+  task :canyoneeringusa do
+    ruby "scrapers/canyoneeringusa.rb"
+  end
+
+end
+
+
 desc 'Run tests'
 task :test do
-    system('ruby test/*_test.rb')
+    ruby "test/*_test.rb"
 end
 
 # namespace :test do

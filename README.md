@@ -12,6 +12,15 @@ Takes all the best beta from roadtripryan.com and canyoneeringusa.com and combin
 
 Finding the answers to these questions isn't straightforward or even possible without a lot of effort. 
 
+# Setup
+
+```
+bundle install
+rake scrape:roadtripryan
+rake scrape:canyoneeringusa
+```
+
+This will create yaml files and save them in the `data` folder
 
 # Development
 
@@ -23,7 +32,10 @@ bundle install --with development
 bundle exec rake test
 ```
 
-A guardfile is included, it will watch for changes in the test directory and will automatically run `rake test` when it detects a change to any file.
+A guardfile is included, it will watch for changes in the test directory and automatically trigger test
+```
+bundle exec guard
+```
 
 
 ## Formatting
