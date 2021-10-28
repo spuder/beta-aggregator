@@ -25,20 +25,18 @@ class CanyoneeringUSA
                     new_data[area][canyon].delete('RATING')
                 end
                 if value['RATINGS']
-                    if value['RATINGS'].include?("\n")
-                        #TODO: implement
+                    if value['RATINGS'].include?('\n')
+                        new_data[area][canyon]['RANKINGS'] ||= []
+                        new_data[area][canyon]['RATINGS'] = value['RATINGS'].split('\n').map do |rating|
+                            # rating.split(':').map(&:strip).each_slice(2).to_h
+                            new_data[area][canyon]['RANKINGS'] << rating.split(/[[:ascii:]]/).reject(&:empty?)[0].to_s.strip
+                            rating.split(':').map{|m| m.gsub(/[[:^ascii:]]/,"").strip}.each_slice(2).to_h
+                            
+                        end
                     else
                         new_data[area][canyon]['RATINGS'] = data[area][canyon]['RATINGS'].gsub(/[[:^ascii:]]/, "").strip
                         new_data[area][canyon]['RANKING'] ||= data[area][canyon]['RATINGS'].split(/[[:ascii:]]/).reject(&:empty?)[0].to_s.strip
-
                     end
-
-                    # value['RATINGS'].split("\n").each do |rating|
-                    #     if rating.include?('★')
-                    #         data[area][canyon]['RANKING'] ||= []
-                    #         data[area][canyon]['RANKING'] << rating.split(/[[:ascii:]]/).reject(&:empty?)[0]
-                    #     end
-                    # end
                 end
             end
         end
