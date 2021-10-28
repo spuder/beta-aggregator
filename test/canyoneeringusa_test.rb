@@ -33,7 +33,8 @@ class CanyoneeringUSATest < Minitest::Test
     def test_canyoneerngusa_transform_flashflood
         input_hash = {'cedar-mesa' => {'cheesebox-canyon' => { 'FLASH FLOOD RISK' => 'Very high: upstream, White Canyon drains a very large area.
       Avoid this hike when storms are in the area.'}}}
-        output_hash = {'cedar-mesa' => {'cheesebox-canyon' => { 'FLASH FLOOD RISK' => ['very high', 'high']}}}        
+        output_hash = {'cedar-mesa' => {'cheesebox-canyon' => { 'FLASH FLOOD RISK' => ['very high', 'high'], 'FLASH FLOOD NOTES' => 'Very high: upstream, White Canyon drains a very large area.
+      Avoid this hike when storms are in the area.'}}}        
       assert_equal(output_hash, CanyoneeringUSA.transform_flashflood(input_hash))
     end
 end

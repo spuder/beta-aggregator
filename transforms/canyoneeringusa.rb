@@ -64,6 +64,7 @@ class CanyoneeringUSA
         data.each do |area, values|
             values.each do |canyon, value|
                 if value['FLASH FLOOD RISK']
+                    new_data[area][canyon]['FLASH FLOOD NOTES'] = value['FLASH FLOOD RISK']
                     new_data[area][canyon]['FLASH FLOOD RISK'] = []
                     risks = ['very high', 'high', 'medium', 'low', 'none', 'unkown', 'moderate']
                     risks.each do |risk|
