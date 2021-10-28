@@ -42,4 +42,20 @@ class CanyoneeringUSA
         end
         return new_data
     end
+
+    def self.transform_season(data)
+        new_data = Marshal.load(Marshal.dump(data))
+        data.each do |area, values|
+            values.each do |canyon, value|
+                if value['SEASON']
+                    seasons = ['Spring', 'Summer', 'Fall', 'Winter']
+                    new_data[area][canyon]['SEASON'] = []
+                    seasons.each do |season|
+                        new_data[area][canyon]['SEASON'] << season if value['SEASON'].downcase.include?(season.downcase)
+                    end
+                end
+            end
+        end
+        return new_data
+    end
 end
