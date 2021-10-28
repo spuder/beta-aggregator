@@ -11,3 +11,23 @@ Takes all the best beta from roadtripryan.com and canyoneeringusa.com and combin
 - Want to find all canyons that have less than 1 hour hike in/out? 
 
 Finding the answers to these questions isn't straightforward or even possible without a lot of effort. 
+
+
+# Development
+
+
+## Testing
+
+```
+bundle install --with development
+bundle exec rake test
+```
+
+A guardfile is included, it will watch for changes in the test directory and will automatically run `rake test` when it detects a change to any file.
+
+
+## Formatting
+
+```
+bundle exec rake rubocop
+```
