@@ -24,4 +24,16 @@ class CanyoneeringUSATest < Minitest::Test
         assert_equal(output_hash, CanyoneeringUSA.transform_season(input_hash))
     end
 
+    def test_canyoneerngusa_transform_season_2
+        input_hash = {'cedar-mesa' => {'gravel-canyon' => { 'SEASON' => 'Spring, summer, or fall'}}}
+        output_hash = {'cedar-mesa' => {'gravel-canyon' => { 'SEASON' => ['Spring', 'Summer', 'Fall']}}}
+        assert_equal(output_hash, CanyoneeringUSA.transform_season(input_hash))
+    end
+
+    def test_canyoneerngusa_transform_flashflood
+        input_hash = {'cedar-mesa' => {'cheesebox-canyon' => { 'FLASH FLOOD RISK' => 'Very high: upstream, White Canyon drains a very large area.
+      Avoid this hike when storms are in the area.'}}}
+        output_hash = {'cedar-mesa' => {'cheesebox-canyon' => { 'FLASH FLOOD RISK' => ['very high', 'high']}}}        
+      assert_equal(output_hash, CanyoneeringUSA.transform_flashflood(input_hash))
+    end
 end

@@ -58,4 +58,21 @@ class CanyoneeringUSA
         end
         return new_data
     end
+
+    def self.transform_flashflood(data)
+        new_data = Marshal.load(Marshal.dump(data))
+        data.each do |area, values|
+            values.each do |canyon, value|
+                if value['FLASH FLOOD RISK']
+                    new_data[area][canyon]['FLASH FLOOD RISK'] = []
+                    risks = ['very high', 'high', 'medium', 'low', 'none', 'unkown', 'moderate']
+                    risks.each do |risk|
+                        new_data[area][canyon]['FLASH FLOOD RISK'] << risk if value['FLASH FLOOD RISK'].downcase.include?(risk.downcase)
+                    end
+
+                end
+            end
+        end
+        return new_data
+    end
 end
