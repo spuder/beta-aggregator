@@ -76,4 +76,18 @@ class CanyoneeringUSA
         end
         return new_data
     end
+
+    def self.transform_longest_rappel(data)
+        new_data = Marshal.load(Marshal.dump(data))
+        data.each do |area, values|
+            values.each do |canyon, value|
+                if value['LONGEST RAPPEL']
+                    new_data[area][canyon].delete('LONGEST RAPPEL')
+                    new_data[area][canyon]['LONGEST RAPPEL METERS'] = value['LONGEST RAPPEL'].to_s[/\(.*?\)/].to_s.gsub(/[(m)]/,"").strip
+                    new_data[area][canyon]['LONGEST RAPPEL FEET'] = value['LONGEST RAPPEL'].to_s.gsub(/feet.*$/,"").strip
+                end
+            end
+        end
+        return new_data
+    end
 end

@@ -37,4 +37,10 @@ class CanyoneeringUSATest < Minitest::Test
       Avoid this hike when storms are in the area.'}}}        
       assert_equal(output_hash, CanyoneeringUSA.transform_flashflood(input_hash))
     end
+
+    def test_canyoneerngusa_transform_longest_rappel
+        input_hash = {'robber-root' => {'mind-bender' => { 'LONGEST RAPPEL' => '50 feet (15 m)'}}}
+        output_hash = {'robber-root' => {'mind-bender' => { 'LONGEST RAPPEL FEET' => '50', 'LONGEST RAPPEL METERS' => '15'}}}       
+      assert_equal(output_hash, CanyoneeringUSA.transform_longest_rappel(input_hash))
+    end
 end
