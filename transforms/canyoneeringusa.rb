@@ -83,8 +83,9 @@ class CanyoneeringUSA
             values.each do |canyon, value|
                 if value['LONGEST RAPPEL']
                     new_data[area][canyon].delete('LONGEST RAPPEL')
+                    # Look for substring '(meters)' and save digits in parentheses
                     new_data[area][canyon]['LONGEST RAPPEL METERS'] = value['LONGEST RAPPEL'].to_s[/\(.*?\)/].to_s.gsub(/[(m)]/,"").strip
-                    new_data[area][canyon]['LONGEST RAPPEL FEET'] = value['LONGEST RAPPEL'].to_s.gsub(/feet.*$/,"").strip
+                    new_data[area][canyon]['LONGEST RAPPEL FEET'] = value['LONGEST RAPPEL'].to_s[/\d+\s*(?i)feet/].gsub("feet", "").strip
                 end
             end
         end

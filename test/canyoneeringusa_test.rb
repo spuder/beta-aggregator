@@ -43,4 +43,10 @@ class CanyoneeringUSATest < Minitest::Test
         output_hash = {'robber-root' => {'mind-bender' => { 'LONGEST RAPPEL FEET' => '50', 'LONGEST RAPPEL METERS' => '15'}}}       
       assert_equal(output_hash, CanyoneeringUSA.transform_longest_rappel(input_hash))
     end
+
+    def test_canyoneerngusa_transform_longest_rappel_2
+        input_hash = {'robber-root' => {'big-bad-ben' => { 'LONGEST RAPPEL' => 'One rappel to 60 feet (18 m)'}}}
+        output_hash = {'robber-root' => {'big-bad-ben' => { 'LONGEST RAPPEL FEET' => '60', 'LONGEST RAPPEL METERS' => '18'}}}       
+      assert_equal(output_hash, CanyoneeringUSA.transform_longest_rappel(input_hash))
+    end
 end
